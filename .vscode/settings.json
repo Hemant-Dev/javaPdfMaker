@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "commons-collections4-4.4/commons-collections4-4.4.jar",
+        "itextpdf-5.5.13.3.jar"
+    ]
+}
